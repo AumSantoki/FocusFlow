@@ -166,6 +166,7 @@ FocusFlow can be installed on your device like a native app:
 - **Vercel** — for free hosting
 - **Google Fonts** — for Plus Jakarta Sans
 - **My FlowBuddy project** — for the design inspiration
+- **Gemini by Google** — for helping me understand concepts
 
 ---
 
